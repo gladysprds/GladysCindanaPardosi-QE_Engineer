@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"User","POST - As an admin I have to be able to create new user","SUCCESS","2022-03-25T23:51:47.0372746+07:00[Asia/Jakarta]","0.0","11.37"
+"User","POST - As a admin I cant create new user with invalid password","SUCCESS","2022-03-25T23:51:58.4819622+07:00[Asia/Jakarta]","0.0","0.99"
+"User","POST - As an admin I cant create new user with exist account","SUCCESS","2022-03-25T23:51:59.4850396+07:00[Asia/Jakarta]","0.0","0.99"
